@@ -1,6 +1,6 @@
 # Covers commands covered in Powershell Lunches book
 
-# Informational
+### Informational
 ```powershell
 $PSVersionTable
 ```
